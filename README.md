@@ -1,7 +1,7 @@
-## Elohim Project Hub
+## Bertler Project Hub
 
 This site serves as a hub for all the projects on my GitHub.
-Visit my Github Profile [here](https://github.com/ElohimHOMM)
+Visit my Github Profile [here](https://github.com/derBertler)
 
 ## List of working Projects
 
