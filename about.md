@@ -1,6 +1,6 @@
-Made by Elohim
+Made by "der Bertler"
 
 Contact:
-Discord: elohim
+Discord: derBertler
 
-[Back](https://elohimhomm.github.io/)
+[Back](https://derbertler.github.io/)
