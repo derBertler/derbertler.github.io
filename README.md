@@ -8,6 +8,8 @@ Visit my Github Profile [here](https://github.com/derBertler)
 ### General Projects
 - [Latex Utils](latex-utils)
     - I don't even think this works as it should
+- [DBD Tournament Page (German)](dbd-debda)
+    - I don't even think this works as it should
 - [The Elohim Tree](the-elohim-tree)
     - Attempt at an Idle-Game
     - Very much paused
